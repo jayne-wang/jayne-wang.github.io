@@ -11,7 +11,7 @@ share: true
 
 Solve problems on the following questions
 1.	The methodologies of doing culture research and how to apply them into my research? 
-2.	How to ask valid questions that can help me acquire the information I need?
+2.	How to ask valid questions that can help me acquire the information I need? 
 
 Readings key words: Semiotics, culture research, design culture.
 
