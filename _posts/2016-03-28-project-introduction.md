@@ -1,7 +1,7 @@
 ---
 layout: post
 type:	video
-title: "A Introduction to My Project"
+title: "An Introduction to My Project"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 category: videos
 tags: [sample post]
@@ -11,11 +11,8 @@ comments: true
 share: true
 ---
 
-test实验
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+The proliferation of technology, performativity and theatricality in contemporary runways whose dramatics are increasingly being reinforced through various methods is gradually becoming an assignable phenomenon in today’s fashion industry. The prosperous development of the fashion industry in China is also increasingly attracting the attention of both academics and industry professionals. However, the cultural and aesthetic value of fashion shows staged by luxury brands tend to be overlooked.
 
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
+This project is aiming to explore the cultural and aesthetic value of contemporary fashion shows from the three perspectives of design, production and dissemination, through case studies of how luxury brands explore the global market between 2000-2016. By using a cross-culture comparison, the globalization of fashion shows and fashion weeks which is now considered as a cultural phenomenon will be examined with a particular focus on how luxury companies embrace the connection between brand and culture in different countries using the case of UK and China. 
 
-{% highlight html %}
-<iframe width="940" height="529" src="//www.youtube.com/embed/CQJByFp7H38?theme=light&amp;color=white" frameborder="0" allowfullscreen> </iframe>
-{% endhighlight %}
+
