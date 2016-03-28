@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Introduction to My Project"
-description: "Custom written post descriptions are the way to go... if you're not lazy."
+description: "Innovation in Contemporary Fashion Shows: Technology, Theatricality and Performativity"
 category: text
 tags: [sample post]
 imagefeature: picture-21.jpg
