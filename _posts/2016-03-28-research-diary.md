@@ -21,6 +21,8 @@ Semiotics and content analysis are two main research methods that are worth to t
 Research Capability training methods stage 1:
 
 1.	Read on related PHD thesis and write conclusions, training the following questions: 
+⋅⋅* Rewrite the abstract following personal understanding
+
 A.	Rewrite the abstract following personal understanding
 B.	Find out the skeletons of each research and try to think of how each research is formulated.
 C.	Think about the core and new contribution of this research
