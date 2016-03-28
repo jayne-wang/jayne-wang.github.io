@@ -19,7 +19,11 @@
     
     
     <url>
-        <loc>/videos/project-introduction</loc>
+        <loc>/text/research-diary</loc>
+    </url>
+    
+    <url>
+        <loc>/text/project-introduction</loc>
     </url>
     
 </urlset>

@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-03-28T18:18:28+01:00</updated>
+<updated>2016-03-28T20:56:26+01:00</updated>
 <id>/</id>
 <author>
   <name>Jayne Wang</name>
@@ -14,9 +14,9 @@
 
 
 <entry>
-  <title type="html"><![CDATA[A Introduction to My Project]]></title>
-  <link>/videos/project-introduction</link>
-  <id>/videos/project-introduction</id>
+  <title type="html"><![CDATA[Research Diary 27th March 2016]]></title>
+  <link>/text/research-diary</link>
+  <id>/text/research-diary</id>
   <published>2016-03-28T00:00:00+01:00</published>
   <updated>2016-03-28T00:00:00+01:00</updated>
   <author>
@@ -24,15 +24,61 @@
     <uri></uri>
     <email>wangzhe.ed.ac.uk@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;test实验
-Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&quot;http://fitvidsjs.com/&quot;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Solve problems on the following questions&lt;/p&gt;
 
-&lt;p&gt;Not sure if this only effects Kramdown or if it’s an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the &lt;code&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt; tags and remove &lt;code&gt;allowfullscreen&lt;/code&gt;. Example below:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The methodologies of doing culture research and how to apply them into my research?&lt;/li&gt;
+  &lt;li&gt;How to ask valid questions that can help me acquire the information I need?&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;940&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;529&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;//www.youtube.com/embed/CQJByFp7H38?theme=light&amp;amp;amp;color=white&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;0&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Readings key words: Semiotics, culture research, design culture.&lt;/p&gt;
+
+&lt;p&gt;Semiotics and content analysis are two main research methods that are worth to think about when undertaking cultural research.&lt;/p&gt;
+
+&lt;p&gt;Research Capability training methods stage 1:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read on related PHD thesis and write conclusions, training the following questions.&lt;/p&gt;
+
+    &lt;p&gt;A.Rewrite the abstract following personal understanding&lt;/p&gt;
+
+    &lt;p&gt;B.Find out the skeletons of each research and try to think of how each research is formulated.&lt;/p&gt;
+
+    &lt;p&gt;C.Think about the core and new contribution of this research&lt;/p&gt;
+
+    &lt;p&gt;D.What data did the author use to support and analyze his or her research questions and conclusions?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write research diaries and record each progress and obstacles that I came across for the sake of losing focus (could be in Chinese).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write conclusions according to different subjects, for instance, record and write down every methodology that could be helpful to my research. (cultural study, fashion study etc.) Read on the similar research to find solutions of my problems.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/videos/project-introduction&quot;&gt;A Introduction to My Project&lt;/a&gt; was originally published by Jayne Wang at &lt;a href=&quot;&quot;&gt;Home of Jayne Wang&lt;/a&gt; on March 28, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/text/research-diary&quot;&gt;Research Diary 27th March 2016&lt;/a&gt; was originally published by Jayne Wang at &lt;a href=&quot;&quot;&gt;Home of Jayne Wang&lt;/a&gt; on March 28, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[An Introduction to My Project]]></title>
+  <link>/text/project-introduction</link>
+  <id>/text/project-introduction</id>
+  <published>2016-03-28T00:00:00+01:00</published>
+  <updated>2016-03-28T00:00:00+01:00</updated>
+  <author>
+    <name>Jayne Wang</name>
+    <uri></uri>
+    <email>wangzhe.ed.ac.uk@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;The proliferation of technology, performativity and theatricality in contemporary runways whose dramatics are increasingly being reinforced through various methods is gradually becoming an assignable phenomenon in today’s fashion industry. The prosperous development of the fashion industry in China is also increasingly attracting the attention of both academics and industry professionals. However, the cultural and aesthetic value of fashion shows staged by luxury brands tend to be overlooked.&lt;/p&gt;
+
+&lt;p&gt;This project is aiming to explore the cultural and aesthetic value of contemporary fashion shows from the three perspectives of design, production and dissemination, through case studies of how luxury brands explore the global market between 2000-2016. By using a cross-culture comparison, the globalization of fashion shows and fashion weeks which is now considered as a cultural phenomenon will be examined with a particular focus on how luxury companies embrace the connection between brand and culture in different countries using the case of UK and China.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/text/project-introduction&quot;&gt;An Introduction to My Project&lt;/a&gt; was originally published by Jayne Wang at &lt;a href=&quot;&quot;&gt;Home of Jayne Wang&lt;/a&gt; on March 28, 2016.&lt;/p&gt;</content>
 </entry>
 
 </feed>

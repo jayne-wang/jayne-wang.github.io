@@ -1,8 +1,13 @@
 callback([
 
   {
-    "text": "A Introduction to My Project",
-    "href": "/videos/project-introduction"
+    "text": "An Introduction to My Project",
+    "href": "/text/project-introduction"
+  } ,
+
+  {
+    "text": "Research Diary 27th March 2016",
+    "href": "/text/research-diary"
   } 
 
 ])

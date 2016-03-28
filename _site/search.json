@@ -1,9 +1,17 @@
 [
 	
 		{
-		  "title"      : "A Introduction to My Project",
-		  "category"   : "videos",
-		  "url"        : "/videos/project-introduction",
+		  "title"      : "Research Diary 27th March 2016",
+		  "category"   : "text",
+		  "url"        : "/text/research-diary",
+		  "date"       : "2016-03-28 00:00:00 +0100",
+		  "shortdate"  : "March 28, 2016"
+		} ,
+	
+		{
+		  "title"      : "An Introduction to My Project",
+		  "category"   : "text",
+		  "url"        : "/text/project-introduction",
 		  "date"       : "2016-03-28 00:00:00 +0100",
 		  "shortdate"  : "March 28, 2016"
 		} 
