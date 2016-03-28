@@ -3,7 +3,7 @@ layout: post
 title: "An Introduction to My Project"
 description: "Innovation in Contemporary Fashion Shows: Technology, Theatricality and Performativity"
 category: text
-tags: [sample post]
+tags: [introduction]
 imagefeature: picture-21.jpg
 comments: true
 share: true
