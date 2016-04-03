@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Next two months plan and progress monitoring",
+		  "category"   : "text",
+		  "url"        : "/text/plans-and-progresses",
+		  "date"       : "2016-04-01 00:00:00 +0100",
+		  "shortdate"  : "April 01, 2016"
+		} ,
+	
+		{
 		  "title"      : "Research Diary 27th March 2016",
 		  "category"   : "text",
 		  "url"        : "/text/research-diary",
