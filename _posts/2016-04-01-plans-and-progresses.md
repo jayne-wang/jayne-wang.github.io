@@ -8,7 +8,7 @@ imagefeature: picture-21.jpg
 comments: true
 share: true
 ---
-Next two month's written work plan (time divisions):
+Next two month's written work plan (time divisions)
 
 1. 1th April-10th April:
 After attending courses of writing a literature review and being your good editor, I gain a better awareness and deeper understanding of academic writing. Using historical context review as an exercising material, revise the review within 10th April (around 4000-5000 words).
